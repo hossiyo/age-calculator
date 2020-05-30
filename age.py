@@ -17,6 +17,8 @@ while(1):
     except ValueError:                                                     #     exception if you enter string
         print ("please give me a number")
         a=input('How old are you? (number please):  ')
+
+
         
         
         
