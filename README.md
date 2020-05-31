@@ -1,4 +1,4 @@
-# simple-python-scripts
+# python-age-calculator
 
 
 this is my first repo in github and it will calculate your age 
