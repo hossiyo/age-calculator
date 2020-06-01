@@ -7,4 +7,4 @@ fork and give stars if you like
 thanks :)
 ## DEMO
 
-
+<img class="transparent" src="https://media2.giphy.com/media/ehU2DngyaUZUB5nUST/giphy.gif" alt="https://media2.giphy.com/media/ehU2DngyaUZUB5nUST/giphy.gif">
